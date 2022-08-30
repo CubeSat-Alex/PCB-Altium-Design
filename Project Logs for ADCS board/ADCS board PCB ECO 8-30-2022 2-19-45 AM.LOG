@@ -1,0 +1,40 @@
+Removed Pin From Net: NetName=NetC?_2 Pin=P?-9
+Removed Pin From Net: NetName=NetC?_2 Pin=Y?-2
+Added Pin To Net: NetName=NetC?_2 Pin=C?-2
+Added Pin To Net: NetName=NetC?_2 Pin=P?-10
+Added Pin To Net: NetName=NetC?_2 Pin=Y?-1
+Added Pin To Net: NetName=XTAL1 Pin=C?-2
+Added Pin To Net: NetName=XTAL1 Pin=P?-9
+Added Pin To Net: NetName=XTAL1 Pin=Y?-2
+Added Net: Name=XTAL1
+Added Pin To Net: NetName=XTAL2 Pin=C?-2
+Added Pin To Net: NetName=XTAL2 Pin=P?-10
+Added Pin To Net: NetName=XTAL2 Pin=Y?-1
+Added Net: Name=XTAL2
+Added Member To Class: ClassName=ADCS board Member=Component C? (C2) Cap
+Added Member To Class: ClassName=ADCS board Member=Component C? (C4) Cap
+Added Member To Class: ClassName=ADCS board Member=Component C? (C3) Cap
+Added Member To Class: ClassName=ADCS board Member=Component l? (l4) LDR
+Added Member To Class: ClassName=ADCS board Member=Component L? (L5) LED
+Added Member To Class: ClassName=ADCS board Member=Component L? (L3) LED
+Added Member To Class: ClassName=ADCS board Member=Component l? (l6) LDR
+Added Member To Class: ClassName=ADCS board Member=Component l? (l2) LDR
+Added Member To Class: ClassName=ADCS board Member=Component P? (P10) SPI_HEADER
+Added Member To Class: ClassName=ADCS board Member=Component P? (P11) SPI_HEADER
+Added Member To Class: ClassName=ADCS board Member=Component P? (P8) Servo_motor_1
+Added Member To Class: ClassName=ADCS board Member=Component P? (P7) SPI_HEADER
+Added Member To Class: ClassName=ADCS board Member=Component P? (P9) Servo_motor_2
+Added Member To Class: ClassName=ADCS board Member=Component P? (P6) PMB180
+Added Member To Class: ClassName=ADCS board Member=Component P? (P2) Header 14
+Added Member To Class: ClassName=ADCS board Member=Component P? (P4) Header 14
+Added Member To Class: ClassName=ADCS board Member=Component P? (P3) Header 14
+Added Member To Class: ClassName=ADCS board Member=Component P? (P5) GPS
+Added Member To Class: ClassName=ADCS board Member=Component R? (R2) resistor
+Added Member To Class: ClassName=ADCS board Member=Component R? (R5) resistor
+Added Member To Class: ClassName=ADCS board Member=Component R? (R4) resistor
+Added Member To Class: ClassName=ADCS board Member=Component R? (R3) resistor
+Added Member To Class: ClassName=ADCS board Member=Component R? (R8) resistor
+Added Member To Class: ClassName=ADCS board Member=Component R? (R7) resistor
+Added Member To Class: ClassName=ADCS board Member=Component R? (R6) resistor
+Added Member To Class: ClassName=ADCS board Member=Component Y? (Y2) XTAL
+Added Room: Name=ADCS board

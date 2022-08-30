@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=SLAVE_2 Pin=P7-1
+Removed Pin From Net: NetName=SLAVE_2 Pin=P11-7
+Added Pin To Net: NetName=GND-TE Pin=C1-2
+Added Pin To Net: NetName=GND Pin=LV1-TX0
+Added Pin To Net: NetName=GND Pin=LV1-TX0
+Added Pin To Net: NetName=MOSI Pin=LV1-TX0
+Added Pin To Net: NetName=MOSI Pin=LV1-TX0
+Added Pin To Net: NetName=MOSI-R Pin=LV1-TX1
+Added Pin To Net: NetName=MOSI-R Pin=LV1-TX1
+Added Pin To Net: NetName=SLAVE_2_RP Pin=P7-1
+Added Pin To Net: NetName=SLAVE_2_RP Pin=P11-7
+Added Net: Name=SLAVE_2_RP

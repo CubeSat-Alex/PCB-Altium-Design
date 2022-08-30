@@ -1,0 +1,13 @@
+Remove Pin=LV?-TX0 From Net=MOSI
+Remove Pin=LV?-TX1 From Net=SCK-R
+Remove Pin=Reg_Rosetta?-2 From Net=12v
+Add Pin To Net: Pin=G?-VCC Old Net=5V New Net=5V-TE
+Add Pin To Net: Pin=P?-2 Old Net=5V New Net=5V-TE
+Add Pin To Net: Pin=P?-2 Old Net=5V New Net=5V-TE
+Add Pin To Net: Pin=P?-5 Old Net=5V New Net=5V-TE
+Add Pin To Net: Pin=P?-6 Old Net=5V New Net=5V-TE
+Add Pin To Net: Pin=P?-7 Old Net=5V New Net=5V-TE
+Add Pin To Net: Pin=R?-1 Old Net=5V New Net=5V-TE
+Change Pin Designator/Name:  Old Designator=C?-1 Old Name=1 New Designator =2 New Name=2
+Change Pin Designator/Name:  Old Designator=LV?-GND Old Name=GND New Designator =TX0 New Name=TX0
+Change Pin Designator/Name:  Old Designator=P?-1 Old Name=1 New Designator =10 New Name=10

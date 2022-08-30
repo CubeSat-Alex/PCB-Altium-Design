@@ -1,0 +1,7 @@
+Added Pin To Net: NetName=GND-TE Pin=C1-2
+Added Pin To Net: NetName=GND Pin=LV1-TX0
+Added Pin To Net: NetName=GND Pin=LV1-TX0
+Added Pin To Net: NetName=MOSI Pin=LV1-TX0
+Added Pin To Net: NetName=MOSI Pin=LV1-TX0
+Added Pin To Net: NetName=MOSI-R Pin=LV1-TX1
+Added Pin To Net: NetName=MOSI-R Pin=LV1-TX1

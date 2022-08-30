@@ -1,0 +1,39 @@
+Added Component: Designator=L3(LED)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Created By"; Value = "Nour Aldin"; VariantName = "[No Variations]"
+Added Component: Designator=R7(Resistor)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Created By"; Value = "Nour Aldin"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND-TE Pin=C?-2
+Added Pin To Net: NetName=LED_1 Pin=L3-2
+Added Pin To Net: NetName=GND Pin=R7-2
+Added Pin To Net: NetName=NetL3_1 Pin=L3-1
+Added Pin To Net: NetName=NetL3_1 Pin=R7-1
+Added Net: Name=NetL3_1
+Added Member To Class: ClassName=ADCS board Member=Component C? (C4) Cap
+Added Member To Class: ClassName=ADCS board Member=Component C? (C2) Cap
+Added Member To Class: ClassName=ADCS board Member=Component C? (C3) Cap
+Added Member To Class: ClassName=ADCS board Member=Component L3 LED
+Added Member To Class: ClassName=ADCS board Member=Component l? (l4) LDR
+Added Member To Class: ClassName=ADCS board Member=Component l? (l2) LDR
+Added Member To Class: ClassName=ADCS board Member=Component L? (L5) LED
+Added Member To Class: ClassName=ADCS board Member=Component l? (l6) LDR
+Added Member To Class: ClassName=ADCS board Member=Component P? (P2) Header 14
+Added Member To Class: ClassName=ADCS board Member=Component P? (P3) Header 14
+Added Member To Class: ClassName=ADCS board Member=Component P? (P4) Header 14
+Added Member To Class: ClassName=ADCS board Member=Component P? (P5) GPS
+Added Member To Class: ClassName=ADCS board Member=Component P? (P6) PMB180
+Added Member To Class: ClassName=ADCS board Member=Component P? (P8) Servo_motor_1
+Added Member To Class: ClassName=ADCS board Member=Component P? (P7) SPI_HEADER
+Added Member To Class: ClassName=ADCS board Member=Component P? (P10) SPI_HEADER
+Added Member To Class: ClassName=ADCS board Member=Component P? (P11) SPI_HEADER
+Added Member To Class: ClassName=ADCS board Member=Component P? (P9) Servo_motor_2
+Added Member To Class: ClassName=ADCS board Member=Component R7 resistor
+Added Member To Class: ClassName=ADCS board Member=Component R? (R8) resistor
+Added Member To Class: ClassName=ADCS board Member=Component R? (R4) resistor
+Added Member To Class: ClassName=ADCS board Member=Component R? (R5) resistor
+Added Member To Class: ClassName=ADCS board Member=Component R? (R6) resistor
+Added Member To Class: ClassName=ADCS board Member=Component R? (R2) resistor
+Added Member To Class: ClassName=ADCS board Member=Component R? (R3) resistor
+Added Member To Class: ClassName=ADCS board Member=Component R? (R1) resistor
+Added Member To Class: ClassName=ADCS board Member=Component Y? (Y2) XTAL

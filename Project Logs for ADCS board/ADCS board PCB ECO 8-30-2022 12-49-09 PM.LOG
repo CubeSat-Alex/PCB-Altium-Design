@@ -1,0 +1,7 @@
+Added Pin To Net: NetName=XTAL1 Pin=C1-2
+Added Pin To Net: NetName=XTAL3 Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=XTAL4 Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Member To Class: ClassName=ADCS board Member=Component C2 Cap2
+Added Member To Class: ClassName=ADCS board Member=Component C4 Cap2

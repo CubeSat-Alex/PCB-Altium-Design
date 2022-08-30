@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=MOSI Pin=P2-3
+Removed Pin From Net: NetName=MISO Pin=P2-4
+Removed Pin From Net: NetName=SCK Pin=P2-5
+Removed Pin From Net: NetName=MOSI Pin=P10-2
+Removed Pin From Net: NetName=MISO Pin=P10-3
+Removed Pin From Net: NetName=SCK Pin=P10-4
+Added Pin To Net: NetName=GND-TE Pin=C1-2
+Added Pin To Net: NetName=GND Pin=LV1-TX0
+Added Pin To Net: NetName=GND Pin=LV1-TX0
+Added Pin To Net: NetName=MOSI Pin=LV1-TX0
+Added Pin To Net: NetName=MOSI Pin=LV1-TX0
+Added Pin To Net: NetName=MOSI-R Pin=LV1-TX1
+Added Pin To Net: NetName=MOSI-R Pin=LV1-TX1
+Added Pin To Net: NetName=MISO-TE Pin=P2-4
+Added Pin To Net: NetName=MISO-TE Pin=P10-3
+Added Net: Name=MISO-TE
+Added Pin To Net: NetName=MOSI-TE Pin=P2-3
+Added Pin To Net: NetName=MOSI-TE Pin=P10-2
+Added Net: Name=MOSI-TE
+Added Pin To Net: NetName=SCK-TE Pin=P2-5
+Added Pin To Net: NetName=SCK-TE Pin=P10-4
+Added Net: Name=SCK-TE

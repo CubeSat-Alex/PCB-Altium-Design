@@ -1,0 +1,7 @@
+Added Pin To Net: NetName=XTAL1 Pin=C1-2
+Added Pin To Net: NetName=GND Pin=LV1-TX0
+Added Pin To Net: NetName=GND Pin=LV1-TX0
+Added Pin To Net: NetName=SCK Pin=LV1-TX0
+Added Pin To Net: NetName=SCK Pin=LV1-TX0
+Added Pin To Net: NetName=SCK-R Pin=LV1-TX1
+Added Pin To Net: NetName=SCK-R Pin=LV1-TX1

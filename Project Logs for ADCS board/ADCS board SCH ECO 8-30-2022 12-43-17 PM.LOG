@@ -1,0 +1,6 @@
+Remove Pin=C2-2 From Net=XTAL3
+Remove Pin=C4-2 From Net=XTAL4
+Remove Pin=LV1-TX0 From Net=GND
+Remove Pin=LV1-TX0 From Net=MOSI
+Remove Pin=LV1-TX1 From Net=MOSI-R
+Remove Pin=P10-10 From Net=SLAVE_2

@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=VCC Pin=VR?-1
+Removed Pin From Net: NetName=GND Pin=VR?-2
+Removed Pin From Net: NetName=volt-in Pin=VR?-3
+Removed Member From Class: ClassName=ADCS board Member=VR?
+Added Pin To Net: NetName=volt-in Pin=P?-1
+Added Pin To Net: NetName=volt-in Pin=P?-27
+Change Net Name : Old Net Name=volt-in New Net Name=SLAVE
+Added Pin To Net: NetName=MISO Pin=P?-3
+Added Pin To Net: NetName=MISO Pin=P?-25
+Added Net: Name=MISO
+Added Pin To Net: NetName=MOSI Pin=P?-2
+Added Pin To Net: NetName=MOSI Pin=P?-26
+Added Net: Name=MOSI
+Added Pin To Net: NetName=SCK Pin=P?-4
+Added Pin To Net: NetName=SCK Pin=P?-24
+Added Net: Name=SCK
+Added Member To Class: ClassName=ADCS board Member=Component C? Cap
+Added Member To Class: ClassName=ADCS board Member=Component P? ATMEGA_1
+Added Member To Class: ClassName=ADCS board Member=Component P? SPI_HEADER
+Added Member To Class: ClassName=ADCS board Member=Component P? Servo_motor_1

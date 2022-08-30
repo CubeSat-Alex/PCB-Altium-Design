@@ -1,0 +1,9 @@
+Change Component Footprint: Designator=VR? Old Footprint=D2PAK_M New Footprint=D2PAK_L
+Added Component: Designator=G?(Gyro-scope)
+Add component. Clean all parameters for all variants
+Added Member To Class: ClassName=ADCS board Member=Component C? Cap
+Added Member To Class: ClassName=ADCS board Member=Component P? SPI_HEADER
+Added Member To Class: ClassName=ADCS board Member=Component P? ATMEGA_1
+Added Member To Class: ClassName=ADCS board Member=Component P? Reg_Rosetta
+Added Member To Class: ClassName=ADCS board Member=Component P? Servo_motor_1
+Added Room: Name=ADCS board
